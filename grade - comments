@@ -1,0 +1,19 @@
+Nolan Zusi
+
+Assignment:  Number Class
+Grade:  check-  (See Course Expectations for interpretation)
+
+1 – Your isPerfectSquare needs another return.  Did this program run for you?  There is a path through here without getting to a return type.
+
+2 – isEven, sumofdigits,  work
+
+3 – Your isPrime method does not work.  That is not how you check for primeness.  You are testing to see if there is a perfect square…look for a remainder when dividing by an integer less than the number.
+
+4 – Number of digits would work but you keep adjusting the instance variable..
+
+5 – Since you do not know how far you have to go in finding the nearest perfect square you should use a while loop.
+
+6 – You have a good user interface.
+
+7 – make sure to see me when you have trouble with implementing required methods.
+
